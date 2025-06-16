@@ -14,4 +14,14 @@ body{
 }
 
 .hero{
-  backgr
+  background: url('Object.png') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items:center;
+  position: relative;
+  color: white;
+}
+
+  
