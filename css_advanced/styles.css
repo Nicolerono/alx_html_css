@@ -24,4 +24,20 @@ body{
   color: white;
 }
 
+.hero h1{
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.hero .subnav{
+  margin:10px 0;
+  letter spacing:5px;
+  font-size: 0.9rem;
+  color: #ddd;
+}
+
+
+  
+  
+
   
